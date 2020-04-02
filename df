@@ -1,0 +1,80 @@
+[33mcommit 3b5a6a364a98e402562837038e1f52c63adacfc1[m[33m ([m[1;36mHEAD -> [m[1;32mbranchDeveloper2[m[33m)[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:46:02 2020 +0300
+
+    Revert "rebase after conflict"
+    
+    This reverts commit 190147f159030cbf520ed786c38aa0e9cf23ce1b.
+
+[33mcommit 190147f159030cbf520ed786c38aa0e9cf23ce1b[m[33m ([m[1;31morigin/branchDeveloper2[m[33m)[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:38:26 2020 +0300
+
+    rebase after conflict
+
+[33mcommit dc2dbae8f02ddf3c55a652d54a3b7f7189d4dd8d[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:33:59 2020 +0300
+
+    add text in index
+
+[33mcommit b70a0edef91e23bb32cd7f4820816fc2869e5e6d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:30:31 2020 +0300
+
+    add text in Instructions.html
+
+[33mcommit 1aa9fe3c310d82caa160e9261d8a3bced98f8ceb[m
+Merge: f964d96 f7ebd59
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:24:07 2020 +0300
+
+    new changes merge with conflict
+
+[33mcommit f7ebd59759dc19f525491cff59cc27b739298172[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 11:10:51 2020 +0300
+
+    add changes
+
+[33mcommit f964d96a8ca353d653bf99cde16de1e472e841d7[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 10:57:06 2020 +0300
+
+    add a new text in index2.html
+
+[33mcommit a6521ae435826f9d22e6f4a42fa20643818ee860[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 10:40:30 2020 +0300
+
+    add text in index2.html
+
+[33mcommit 4c3d179861a0d839cd5449894ebfbccda7df65da[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 10:25:24 2020 +0300
+
+    create new file and add chenges in index.html
+
+[33mcommit dbe2681ffe29192754b4d19c2b234268cee58e0a[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Thu Apr 2 08:52:09 2020 +0300
+
+    add next head
+
+[33mcommit ab5bea6e07a9dad1abf80b0d43f8cc5c4ca1d103[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Wed Apr 1 12:47:00 2020 +0300
+
+    made changes
+
+[33mcommit 9a1c9c68a8a95e490a16fadd8818eed1c57e111e[m
+Author: Artem <Artymk77@gmai.com>
+Date:   Wed Apr 1 12:36:33 2020 +0300
+
+    add index.html
+
+[33mcommit d4fa2bb94bcf615243f0e8761b39d5bea3412ef9[m
+Author: Artem <36197613+ArtemKnyz@users.noreply.github.com>
+Date:   Wed Apr 1 12:10:32 2020 +0300
+
+    Initial commit
